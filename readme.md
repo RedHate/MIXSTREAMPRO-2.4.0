@@ -9,6 +9,7 @@ Default deck colors have been set bright lime green. (00FF00)
 
 
 How to use:
+
 	Step 1:
 		Download all the parts from this repo, then use winrar or 7zip to extract the "MIXSTREAMPRO-2.4.0-Update.img"
 		
