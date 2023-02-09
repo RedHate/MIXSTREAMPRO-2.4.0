@@ -5,6 +5,8 @@
 
 	Kill EQ, Filter Kill, Brake Time, and Pitch options enabled in the settings.
 
+	Enabled extra cue options.
+
 	"Slicer" has been enabled use shift + saved loop to access.
 
 	Enabled option to disable "Engine Lighting" service.
