@@ -1,4 +1,7 @@
 
+# **EDIT** UPDATED 3.0.0 firmware can be found HERE: http://github.com/redhate/MIXSTREAMPRO-3.0.0
+
+
 # NUMARK MIXSTREAM PRO 2.4.0 CUSTOM FIRMWARE.
 
 	Enabled SSH access.
